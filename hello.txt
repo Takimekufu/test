@@ -1,3 +1,4 @@
 Hello
 branch
 add text for another one commit
+add text for feature2
